@@ -1,3 +1,4 @@
+!pip install beautifulsoup4
 import streamlit as st
 import csv
 import logging
